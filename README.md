@@ -1,5 +1,5 @@
-PyDice
-========
+Pydice
+======
 A python script with graphical menu for generating diceware passphrases. Works in Linux and Windows.
 
 ![Pydice](screenshots/dicegen.png)
