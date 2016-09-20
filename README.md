@@ -19,6 +19,6 @@ Buttons:
 
 Diceware info
 -------------
-More info about diceware works [here](http://world.std.com/~reinhold/diceware.html).
+More info about how diceware method works [here](http://world.std.com/~reinhold/diceware.html).
 
 
