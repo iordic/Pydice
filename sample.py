@@ -29,7 +29,7 @@ print "PyDice Example:"
 print "---------------"
 size=input("Enter the size of passphrasse (amount of words): ")
 
-dice=diceware.dice(size,dictionary="diceware",secure=True)
+dice=diceware.dice(size, dictionary="diceware", secure=True)
 
 print dice.generate()
 

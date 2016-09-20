@@ -71,7 +71,7 @@ class Application(Frame):
         self.texto_salida.insert(INSERT,frase.generate())
 
     def to_clipboard(self):
-        self.text_value=self.texto_salida.get('1.0',END)
+        self.text_value=self.texto_salida.get('1.0', END)
         root.clipboard_clear()
         root.clipboard_append(self.text_value)
 
